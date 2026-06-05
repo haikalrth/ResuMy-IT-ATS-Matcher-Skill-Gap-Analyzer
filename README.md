@@ -262,3 +262,6 @@ npm run build
 cd ai-service
 python -m py_compile main.py roadmap_generator.py
 ```
+
+## Resources
+* [Google Drive Folder AI Models](https://drive.google.com/drive/folders/1xkyOCLrvv_dqnrv9VvYmY1AgDAFSunon?usp=drive_link) - *Folder AI Models di Gdrive
